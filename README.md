@@ -14,5 +14,6 @@ place the 3rd file in the model folder itself
 those who want to run in colab try refer .ipnyb file
 and other can refer .py file.
 
+Make sure you have packages properly installed, still facing issues can connect with me.
 Hope this would have helped you,
 THANKYOU!
