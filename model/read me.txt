@@ -1,2 +1,4 @@
-colorization_release_v2.caffemodel           
+colorization_release_v2.caffemodel (122MB)
+
 download link:- https://drive.google.com/file/d/1iGbx_n3UYJmg_NER_IxpZKURZ00ET8tD/view?usp=sharing
+GitHub has only 25MB uploading limit hence, i have uploaded on drive and shared with you guys.
