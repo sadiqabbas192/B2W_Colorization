@@ -1,2 +1,2 @@
-colorization_release_v2.caffemodel           download from my descrption
-colorization_deploy_v2.pr                    download from my decription                     
+colorization_release_v2.caffemodel           
+download link:- https://drive.google.com/file/d/1iGbx_n3UYJmg_NER_IxpZKURZ00ET8tD/view?usp=sharing
